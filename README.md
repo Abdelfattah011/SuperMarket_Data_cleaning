@@ -50,7 +50,7 @@ Follow these simple steps to get a local copy up and running on your machine:
 > Grab a copy of the code to your local environment.
 
 ```bash
-git clone [https://github.com/Abdelfattah011/SuperMarket_Data_cleaning.git](https://github.com/Abdelfattah011/SuperMarket_Data_cleaning.git)
+git clone https://github.com/Abdelfattah011/SuperMarket_Data_cleaning.git
  ```
 
 ### 2️⃣ Navigate to the project directory2️⃣ Navigate to the project directory
