@@ -45,4 +45,4 @@ To set up the project locally on your machine, follow these steps:
 1. **Clone the repository:**
    Open your terminal or command prompt and run:
    ```bash
-   git clone [https://github.com/Abdelfattah011/SuperMarket_Data_cleaning.git] (https://github.com/Abdelfattah011/SuperMarket_Data_cleaning.git)
+   git clone https://github.com/Abdelfattah011/SuperMarket_Data_cleaning.git
