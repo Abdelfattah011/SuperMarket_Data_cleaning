@@ -9,7 +9,7 @@
 
 <!-- Project Banner Image -->
 <p align="center">
-  <img src="Gemini_Generated_Image_izjgwoizjgwoizjg.jpg" alt="Data Engineering Pipeline Phases" width="100%">
+  <img src="DATA PHASES" alt="Data Engineering Pipeline Phases" width="100%">
 </p>
 
 ## 📌 Project Overview
