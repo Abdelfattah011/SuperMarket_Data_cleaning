@@ -9,7 +9,7 @@
 
 <!-- Project Banner Image -->
 <p align="center">
-  ![image alt](https://github.com/Abdelfattah011/SuperMarket_Data_cleaning/blob/d4dc8c9ffd645ad80aad63fa3fa0230cfb91531a/DATA%20PHASES.jpg)
+  ![image alt] (https://github.com/Abdelfattah011/SuperMarket_Data_cleaning/blob/d4dc8c9ffd645ad80aad63fa3fa0230cfb91531a/DATA%20PHASES.jpg)
 </p>
 
 ## 📌 Project Overview
