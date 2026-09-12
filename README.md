@@ -9,7 +9,7 @@
 
 <!-- Project Banner Image -->
 <p align="center">
-  ![image alt] (https://github.com/Abdelfattah011/SuperMarket_Data_cleaning/blob/d4dc8c9ffd645ad80aad63fa3fa0230cfb91531a/DATA%20PHASES.jpg)
+  <img src="DATA%20PHASES.jpg" alt="Data Engineering Pipeline Phases" width="100%">
 </p>
 
 ## 📌 Project Overview
@@ -50,7 +50,7 @@ Follow these simple steps to get a local copy up and running on your machine:
 > Grab a copy of the code to your local environment.
 
 ```bash
-git clone https://github.com/Abdelfattah011/SuperMarket_Data_cleaning.git
+git clone [https://github.com/Abdelfattah011/SuperMarket_Data_cleaning.git](https://github.com/Abdelfattah011/SuperMarket_Data_cleaning.git)
  ```
 
 ### 2️⃣ Navigate to the project directory2️⃣ Navigate to the project directory
