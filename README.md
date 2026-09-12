@@ -80,7 +80,7 @@ This project highlights the following core Data Engineering competencies:
 
 - 🐙 Version Control: Managing code and project structure efficiently via Git & GitHub.
 
-- 👨‍💻 Developed by: Abdelfattah Ahmed Abdelfattah
+👨‍💻 Developed by: Abdelfattah Ahmed Abdelfattah
 
 
 
